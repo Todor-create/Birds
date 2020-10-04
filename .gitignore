@@ -1,0 +1,28 @@
+# System and IDE files
+Thumbs.db
+.DS_Store
+.idea
+*.suo
+*.sublime-project
+*.sublime-workspace
+
+# VS Code
+.vscode/
+build/
+
+# Vendors
+node_modules/
+
+# Build
+/npm-debug.log
+/dist
+
+# Project specific
+
+*.suo
+*.js.map
+*.js
+
+!gruntfile.js
+!gulpfile.js
+!*.json
