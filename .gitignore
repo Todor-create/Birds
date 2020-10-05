@@ -23,6 +23,7 @@ node_modules/
 *.js.map
 *.js
 
+!rollup.*.js
 !gruntfile.js
 !gulpfile.js
 !*.json
