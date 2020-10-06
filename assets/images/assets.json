@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "bird",
+	"frame": {"x":0,"y":65,"w":1440,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":152},
+	"sourceSize": {"w":1440,"h":152}
+},
+{
+	"filename": "buttonPlay",
+	"frame": {"x":0,"y":0,"w":148,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":64},
+	"sourceSize": {"w":148,"h":64}
+},
+{
+	"filename": "buttonPlayDown",
+	"frame": {"x":149,"y":0,"w":146,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":64},
+	"sourceSize": {"w":146,"h":64}
+},
+{
+	"filename": "buttonPlayOver",
+	"frame": {"x":296,"y":0,"w":142,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":64},
+	"sourceSize": {"w":142,"h":64}
+},
+{
+	"filename": "buttonQuit",
+	"frame": {"x":439,"y":0,"w":146,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":64},
+	"sourceSize": {"w":146,"h":64}
+},
+{
+	"filename": "buttonQuitDown",
+	"frame": {"x":586,"y":0,"w":146,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":64},
+	"sourceSize": {"w":146,"h":64}
+},
+{
+	"filename": "buttonQuitOver",
+	"frame": {"x":733,"y":0,"w":148,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":64},
+	"sourceSize": {"w":148,"h":64}
+},
+{
+	"filename": "GameTitle",
+	"frame": {"x":0,"y":218,"w":1000,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":256},
+	"sourceSize": {"w":1000,"h":256}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA8888",
+	"size": {"w":1440,"h":474},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:af18fa71b3f9ab04e24ce693c14611d5:1269a048a69c0c70eab4eda73e9e6685:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}
